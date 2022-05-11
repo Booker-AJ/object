@@ -12,4 +12,5 @@ class Animal:
         self.sex = sex
 
     def speak(self):
-        print('skwaa')
+        print(f"I am {self.name} and I say skwaa")
+
